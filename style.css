@@ -55,7 +55,7 @@ ul a{
 }
 
 ul a:hover{
-    color: rgb(9, 255, 0);
+    color: rgb(0, 136, 247));
 }
 
 .intro {
@@ -119,5 +119,5 @@ ul a:hover{
 }
 
 .text a:hover{
-    color: rgb(255, 94, 0);
+    color: rgb(0, 136, 247);
 }
