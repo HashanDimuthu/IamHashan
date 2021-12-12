@@ -112,8 +112,7 @@ ul a:hover{
   }
 
 .text{
-    padding-left: 10px;
-    padding-top: 10px;
+    padding: 10px;    
 }
 
 .text a{
@@ -126,4 +125,13 @@ ul a:hover{
 
 .text a:hover{
     color: rgb(0, 136, 247);
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: space-around;
+    min-height: 8vh;
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 10px;
 }
