@@ -25,8 +25,27 @@ P{
     letter-spacing: 3px;
 }
 
+.back{
+    color: #fff;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+
+.back a{
+    text-decoration: none;
+    color: #fff;
+    transition: 1000ms ease-in-out;
+}
+
+.back a:hover{
+    color: rgb(0, 136, 247);
+}
+
 .end{
     color: #fff;
+    padding-top: 50px;
+    font-size: 20px;
 }
 
 .end a{
