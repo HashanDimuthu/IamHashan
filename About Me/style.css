@@ -1,0 +1,40 @@
+body{
+    background:linear-gradient(to top, rgba(0,0,0, 0.5)50%,rgba(0,0,0,0.5)50%), url('bg.jpg') no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size :cover;
+}
+
+h1{
+    color: #fff;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+h2{
+    color: #fff;
+}
+
+P{
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.end{
+    color: #fff;
+}
+
+.end a{
+    text-decoration: none;
+    color: #fff;
+    transition: 1000ms ease-in-out;
+}
+
+.end a:hover{
+    color: rgb(0, 136, 247);
+}
