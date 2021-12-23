@@ -152,6 +152,8 @@ ul a:hover{
     color: rgb(0, 238, 255);
 }
 
-.cre button:hover{
-    box-shadow: rgb(0, 238, 255);
+.cre .modal-footer button{
+    color: black;
+    border-color: black;
 }
+
