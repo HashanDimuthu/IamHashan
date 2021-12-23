@@ -114,3 +114,44 @@ ul a{
 ul a:hover{
     color: rgb(0, 136, 247);
 }
+
+.bt{
+    padding-left: 10px;
+}
+
+.bt button{
+    background: none;
+    border-color: rgb(0, 238, 255);
+    color: #fff;
+    transition: 0.6s ease-in-out;
+}
+
+.bt button:hover{
+    color: rgb(0, 238, 255);
+}
+
+.bt img{
+    width: 20px;
+    height: 20px;
+}
+
+
+.cre{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.cre button{
+    background: none;
+    border-color:rgb(0, 238, 255);
+    color: #fff;
+    transition: 0.6s ease-in-out;
+}
+
+.cre button:hover{
+    color: rgb(0, 238, 255);
+}
+
+.cre button:hover{
+    box-shadow: rgb(0, 238, 255);
+}
